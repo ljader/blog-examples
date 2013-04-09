@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <inherits name='pl.ljader.blog.gwt.overlay.Overlay' />
+
+  <servlet path="/Overlay/greet" class="pl.ljader.blog.gwt.overlay.server.GreetingServiceImpl" />
+</module>

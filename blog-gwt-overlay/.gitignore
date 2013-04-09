@@ -1,0 +1,7 @@
+.classpath
+.project
+target/
+gwt-unitCache/
+.settings/
+www-test/
+srcq/main/webapp/WEB-INF/classes/

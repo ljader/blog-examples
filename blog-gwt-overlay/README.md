@@ -1,0 +1,1 @@
+## GwtTestCase example ##
